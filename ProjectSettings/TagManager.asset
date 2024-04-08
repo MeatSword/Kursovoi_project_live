@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Thorn
+  - Enemy
+  - Bullet
+  - Exp1
+  - InventoryItems
+  - Choice
+  - TextChoice
+  - EnemySkelMage
+  - SkelMageFire
+  - Sword
+  - Dagger
+  - Staff
+  - BossBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - SkelMageFire
+  - Water
+  - UI
+  - Enemies
+  - Bullet
+  - Player
+  - Exp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Exp
+    uniqueID: 477546979
+    locked: 0
